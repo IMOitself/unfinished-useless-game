@@ -1,6 +1,7 @@
 # the unfinished useless game
 ## https://imoitself.github.io/godot-game-idk/ 
 i never finished the game. i suck ;-;
+<br><sub>didnt pushed it far because i use ai to learn godot. (this was my first time game deving). which prolly a small thing but it still hurts my soul ;-;</sub>
 
 
 <img width="326" height="576" alt="download" src="https://github.com/user-attachments/assets/43d3d361-fd83-4084-9613-5088e6eaa1f1" />
