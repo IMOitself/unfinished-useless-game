@@ -1,5 +1,5 @@
 # the unfinished useless game
-## https://imoitself.github.io/godot-game-idk/ 
+## https://unfinished-useless-game.web.app/
 i never finished the game. i suck ;-;
 <br><sub>didnt pushed it far because i use ai to learn godot. (this was my first time game deving). which prolly a small thing but it still hurts my soul ;-;</sub>
 
@@ -96,7 +96,7 @@ learned how to properly pick up and drop, add ui buttons and deploy game to gith
 <br><br>
 
 ## running the thing:
-either go to https://imoitself.github.io/godot-game-idk/ 
+either go to https://unfinished-useless-game.web.app/
 
 or clone this repo and do
 ```
